@@ -1,0 +1,11 @@
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.AssemblyReference.cache
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.SuggestedBindingRedirects.cache
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Form1.resources
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.Properties.Resources.resources
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.cache
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.CoreCompileInputs.cache
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\Samhitha\dotnet\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
